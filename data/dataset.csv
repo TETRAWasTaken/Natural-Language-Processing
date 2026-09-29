@@ -1,0 +1,26 @@
+id,category,text
+1,technology,Artificial intelligence and machine learning models are revolutionizing modern computer science and software development.
+2,technology,Deep learning neural networks require massive computing power and graphics processing units GPU for training.
+3,technology,"Natural language processing allows computers to understand, analyze, and generate human languages effectively."
+4,technology,"Cloud computing providers offer scalable virtual servers, storage databases, and AI machine learning APIs."
+5,technology,"Python is a popular programming language for data science, artificial intelligence, and web development."
+6,space,Astronomers discover new planets and distant galaxies using powerful optical and infrared space telescopes.
+7,space,NASA and SpaceX launch rockets and spacecraft into outer space to explore Mars and the Moon.
+8,space,"The solar system consists of the Sun, eight planets, moons, asteroids, comets, and cosmic dust particles."
+9,space,Astronauts aboard the international space station conduct scientific experiments in zero gravity orbit.
+10,space,Black holes possess immense gravitational pull such that even light cannot escape their event horizon.
+11,health,"Regular physical exercise, balanced nutrition, and sufficient sleep promote long term cardiovascular health."
+12,health,"Medical researchers develop novel vaccines, antibiotics, and therapeutic treatments to fight infectious viral diseases."
+13,health,"Doctors and healthcare professionals recommend a diet rich in fruits, vegetables, proteins, and essential vitamins."
+14,health,"Mental health awareness encourages mindfulness meditation, stress reduction techniques, and emotional wellness."
+15,health,"Hospitals utilize advanced medical diagnostics, magnetic resonance imaging MRI, and genetic sequencing."
+16,sports,"Football players train rigorously on tactical formations, sprint speed, passing accuracy, and teamwork."
+17,sports,"The Olympic games bring together global athletes competing in athletics, swimming, gymnastics, and cycling."
+18,sports,"Basketball teams focus on fast breaks, three point shooting defense, rebounds, and tactical coaching."
+19,sports,"Tennis champions master powerful serves, baseline forehands, backhand slices, and mental endurance."
+20,sports,"Marathon runners require intense cardiovascular endurance, proper hydration, and strategic pacing."
+21,finance,"Stock market investors analyze corporate financial statements, earnings reports, interest rates, and revenue growth."
+22,finance,"Central banks manage monetary policy, inflation targets, interest rates, and economic stability."
+23,finance,Venture capital funds invest capital into early stage technology startups with high growth potential.
+24,finance,"Cryptocurrency assets, digital tokens, and blockchain ledgers facilitate decentralized financial transactions."
+25,finance,"Global trade, supply chain logistics, and currency exchange rates affect international business commerce."
